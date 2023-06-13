@@ -2,6 +2,7 @@
   "name": "moshify",
   "version": "1.0.0",
   "description": "Application developed during HTML and CSS Part3",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,6 @@
   },
   "homepage": "https://github.com/Sandeep5T/MOSHIFY#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.5"
   }
 }
